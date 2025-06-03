@@ -45,3 +45,7 @@ h2 {
   font-size: var(--text-lg);
   line-height: 1.2;
 }
+
+a {
+  text-decoration: none;
+}
